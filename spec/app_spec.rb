@@ -6,3 +6,6 @@ describe "the login_twitter method" do
     expect(login_twitter).not_to be_nil
   end
 end
+
+
+
